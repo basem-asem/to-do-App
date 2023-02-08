@@ -115,7 +115,7 @@ for (let i = 0; i < 6; i++) {
 let finalColor = `#${color.join("")}`
 document.body.style.backgroundColor = finalColor;
 
-
+submit.style.backgroundColor = finalColor;
 
 
 
